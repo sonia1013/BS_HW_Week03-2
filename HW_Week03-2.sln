@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BuyDinner", "02_BuyDinne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Fei'sCount", "01_Fei'sCount\01_Fei'sCount.csproj", "{2DEDE0C4-00CD-4EF4-A054-BA4B106CFA16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_MathCount", "06_MathCount\06_MathCount.csproj", "{52E06412-2D0F-49FC-BFDA-5EE169136D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_StringReplace", "04_StringReplace\04_StringReplace.csproj", "{FE131D9E-B468-454D-9115-8261F5D1F0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2DEDE0C4-00CD-4EF4-A054-BA4B106CFA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DEDE0C4-00CD-4EF4-A054-BA4B106CFA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DEDE0C4-00CD-4EF4-A054-BA4B106CFA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E06412-2D0F-49FC-BFDA-5EE169136D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E06412-2D0F-49FC-BFDA-5EE169136D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E06412-2D0F-49FC-BFDA-5EE169136D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E06412-2D0F-49FC-BFDA-5EE169136D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE131D9E-B468-454D-9115-8261F5D1F0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE131D9E-B468-454D-9115-8261F5D1F0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE131D9E-B468-454D-9115-8261F5D1F0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE131D9E-B468-454D-9115-8261F5D1F0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
